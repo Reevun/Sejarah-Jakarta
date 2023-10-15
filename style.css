@@ -179,6 +179,40 @@ body {
   line-height: 1.6;
 }
 
+.about .row .content3 {
+  flex: 1 1 35rem;
+  padding: 0 1rem;
+  
+}
+
+.about .row .content3 h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.about .row .content3 p {
+  margin-bottom: 0.8ren;
+  font-size: 1.1rem;
+  font-weight: 100%;
+  line-height: 1.6;
+}
+
+.about .row .content4 {
+  flex: 1 1 35rem;
+  padding: 0 1rem;
+}
+
+.about .row .content4 h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.about .row .content4 p {
+  margin-bottom: 0.8ren;
+  font-size: 1.1rem;
+  font-weight: 100%;
+  line-height: 1.6;
+}
 /* End About section */
 
 /* Footer */
